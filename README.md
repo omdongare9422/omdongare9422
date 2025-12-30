@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on<br><br>Building real-world software projects using Java, Django, and database-driven applications, while strengthening my problem-solving and coding skills through hands-on practice.<br><br>👯 I’m looking to collaborate on<br><br>Open-source projects, web applications, backend development, and software engineering projects where I can contribute, learn from others, and grow as a developer.<br><br>🤝 I’m looking for help with<br><br>Guidance on industry-level project architecture, best coding practices, optimization techniques, and preparing for technical interviews and internships.<br><br>🌱 I’m currently learning<br><br>Advanced Data Structures & Algorithms, backend development with Django, database optimization, and exploring software development best practices.<br><br>💬 Ask me about<br><br>Java, C/C++, Django, Oracle Database, basic web development, or how to balance engineering studies with skill-building.<br><br>📩 Ask me<br><br>Anything related to coding, project ideas, learning resources, or collaboration opportunities—I’m always open to discussions and knowledge sharing.<br><br>⚡ Fun fact<br><br>When I’m not coding, you’ll find me playing musical instruments—I believe music and programming both run on rhythm, logic, and creativity 🎶💻
 
-<!--
-**omdongare9422/omdongare9422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/om.dongare.108) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/o.m._dongare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/om-dongare-110a45297) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/omdongare19) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@musicwithomm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omdongare19@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=omdongare9422&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=omdongare9422&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omdongare9422&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=omdongare9422&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
