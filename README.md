@@ -15,41 +15,7 @@
 
 ---
 
-# 💻 Developer Workspace
-
-<p align="center">
-  <i>Click on the file nodes below to inspect different parts of my developer profile.</i>
-</p>
-
-<table>
-<tr>
-<td width="30%" valign="top">
-
-### 📁 Project Explorer
-```style
-omdongare9422/
-├── 📄 Om.java (Who I am)
-├── ⚙️ stack.json (My Toolbox)
-├── 📐 architecture.md (How I Think)
-├── 📊 stats.sh (Activity/Pulse)
-└── 🎮 snake.yml (Contribution Game)
-```
-
-<hr/>
-
-**System Status**
-- **Java Platform**: Active ☕
-- **Android Studio**: Ready 📱
-- **Music Mode**: Jamming 🎹
-- **Work Status**: Open to collabs
-
-</td>
-<td width="70%" valign="top">
-
-<!-- FILE 1: Om.java -->
-<details open>
-<summary><b>☕ src/profile/Om.java (Click to collapse/expand)</b></summary>
-<br/>
+### 💻 `om@github:~$ whoami`
 
 ```java
 package profile;
@@ -67,30 +33,11 @@ public class OmDongare extends Developer implements Musician {
 }
 ```
 
-> "I like working on software where the pieces have to **talk to each other** — mobile clients, APIs, databases, devices, and the messy real-world details in between."
+> I like working on software where the pieces have to **talk to each other** — mobile clients, APIs, databases, devices, and the messy real-world details in between.
 
-</details>
+---
 
-<!-- FILE 2: stack.json -->
-<details>
-<summary><b>⚙️ config/skills/stack.json (Click to expand)</b></summary>
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,spring,django,nodejs,py,js,c,cpp,mysql,mongodb,git,github,linux,postman&perline=8" alt="Core technology stack" />
-</div>
-
-#### Detailed Technologies
-*   **Mobile & APIs:** Android SDK, XML, REST APIs, Spring Boot, Express, Django
-*   **Data & ML:** Oracle DB, MySQL, MongoDB, TensorFlow, Pandas, NumPy, scikit-learn
-*   **Systems & IoT:** MQTT, ESP32, Raspberry Pi, Arduino
-
-</details>
-
-<!-- FILE 3: architecture.md -->
-<details>
-<summary><b>📐 docs/design/architecture.md (Click to expand)</b></summary>
-<br/>
+### 📐 `architecture.thinking`
 
 ```mermaid
 flowchart LR
@@ -108,12 +55,25 @@ flowchart LR
   <sub>I enjoy designing the boundaries between layers as much as the layers themselves.</sub>
 </p>
 
-</details>
+---
 
-<!-- FILE 4: stats.sh -->
-<details>
-<summary><b>📊 scripts/analytics/stats.sh (Click to expand)</b></summary>
+### ⚙️ `toolbox --core`
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,spring,django,nodejs,py,js,c,cpp,mysql,mongodb,git,github,linux,postman&perline=8" alt="Core technology stack" />
+</div>
+
 <br/>
+
+#### 🛠️ Tech Stack Categorized
+
+*   **Mobile & APIs:** Android SDK, XML, REST APIs, Spring Boot, Express, Django
+*   **Data & ML:** Oracle DB, MySQL, MongoDB, TensorFlow, Pandas, NumPy, scikit-learn
+*   **Systems & IoT:** MQTT, ESP32, Raspberry Pi, Arduino
+
+---
+
+### 📊 `github --pulse`
 
 <div align="center">
 
@@ -130,42 +90,22 @@ flowchart LR
 
 </div>
 
-</details>
-
-<!-- FILE 5: snake.yml -->
-<details>
-<summary><b>🎮 workflows/game/snake.yml (Click to expand)</b></summary>
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omdongare9422/omdongare9422/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omdongare9422/omdongare9422/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/omdongare9422/omdongare9422/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<p align="center">
-  <sub>This contribution animation updates dynamically based on repository activity.</sub>
-</p>
-
-</details>
-
-</td>
-</tr>
-</table>
-
 ---
 
-## 🚀 Projects & Live Work
+### 🚀 `projects --live`
 
 I intentionally **don’t hard-code static project cards** here because work evolves. Instead, my **pinned repositories directly below this README are my live portfolio**. 
 
 This keeps the profile focused on *how I engineer systems* while allowing my featured projects to update dynamically.
 
 <p align="center"><b>👇 Explore my pinned repositories below to see what I am building right now 👇</b></p>
+
+---
+
+### 🎹 `sidequest --music`
+
+When I’m away from code, I’m usually at a different keyboard. 🎹  
+I play music because it scratches the same itch as programming: **timing, structure, patterns, improvisation, and knowing when not to add another note.**
 
 ---
 
