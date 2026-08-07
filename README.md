@@ -76,11 +76,6 @@ public class OmDongare extends Developer implements Musician {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=omdongare9422&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ED8B00&icon_color=ED8B00&text_color=C9D1D9&ring_color=ED8B00&include_all_commits=true&v=1.0.3" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=omdongare9422&layout=compact&hide_border=true&bg_color=0D1117&title_color=ED8B00&text_color=C9D1D9&langs_count=8&v=1.0.3" alt="Top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=omdongare9422&hide_border=true&background=0D1117&ring=ED8B00&fire=ED8B00&currStreakLabel=ED8B00&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&v=1.0.3" alt="GitHub streak" />
 
 <br/>
