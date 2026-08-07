@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,100:ED8B00&height=200&section=header&text=Om%20Dongare&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20%7C%20Backend%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,100:ED8B00&height=190&section=header&text=Om%20Dongare&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20%7C%20Backend%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://www.linkedin.com/in/om-dongare-110a45297">
   <img src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=ED8B00&center=true&vCenter=true&width=600&lines=Final-Year+IT+Student+%40+SPPU;Building+Android+apps+with+Kotlin+%2B+Compose;Shipping+Django+%2F+Node.js+backends;Turning+coffee+%2B+chords+into+code+%F0%9F%8E%B9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=ED8B00&center=true&vCenter=true&width=650&lines=Final-Year+IT+Student+%40+SPPU;Building+Android+apps+in+Java;Shipping+Spring+Boot+%2F+Django+%2F+Node.js+backends;Turning+coffee+%2B+chords+into+code+%F0%9F%8E%B9" alt="Typing SVG" />
 
 </div>
 
@@ -22,57 +22,52 @@
 
 ### 👋 About me
 
-I'm a final-year IT student who likes building things that actually get used — not just graded. Right now that means a native Android system-monitor app, a pharmacy inventory platform with OCR prescription scanning, and the IIoT/cloud layer for a hardware team's adaptive load-shedding prototype.
+Final-year IT student who likes building things that actually get used — not just graded. That's meant a pharmacy inventory platform, a vehicle yard management system built during an internship, an Android system-monitor app, an IIoT/cloud layer for a hardware team's load-shedding prototype, an emergency-response app, and a computer-vision smart-meter reader.
 
-When I'm not writing code, I'm probably behind a keyboard of a different kind — playing live with my college band, **The Detained Headliners** 🎹. Code and music aren't that different: both are just rhythm, logic, and a little creativity stacked on top of each other.
+Off the clock, I'm behind a different kind of keyboard — playing live with my college band, **The Detained Headliners** 🎹. Code and music run on the same thing: rhythm, logic, and a little creativity stacked on top of each other.
 
-```txt
-class Om {
-  currentFocus   = ["Android (Kotlin/Compose)", "Django", "Node.js/Express", "System Design"];
-  learning       = ["Advanced DSA", "DB optimization", "IIoT/MQTT pipelines"];
-  lookingFor     = "internships, open-source collabs, and people to argue about architecture with";
-  offTheClock    = "playing keyboard with The Detained Headliners 🎶";
+```java
+public class Om {
+
+    String[] currentFocus = {
+        "Java", "Android Development", "Spring Boot",
+        "Django", "Node.js/Express", "System Design"
+    };
+
+    String[] learning = {
+        "Advanced DSA", "Database Optimization",
+        "IIoT / MQTT pipelines", "Scalable Architectures"
+    };
+
+    String lookingFor =
+        "Internships, open-source collabs, and people to argue about architecture with";
+
+    String offTheClock =
+        "Playing keyboard with The Detained Headliners 🎶";
 }
 ```
 
 ---
 
-### 🚀 What I'm building
+### 🚀 Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<!-- Pin cards pull description, primary language and star count live from GitHub — no manual editing needed as repos change.
+     Replace REPO_SLUG below with each project's actual repo name on github.com/omdongare9422. -->
 
-**🩺 Med Mitra**
-Pharmacy inventory management system for small pharmacies that can't afford enterprise tools like MediVision. Tracks expiry, batching, billing — now getting an OCR prescription-scanner add-on.
-`Node.js` `Express` `MongoDB` `EJS`
+<div align="center">
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/omdongare9422/REPO_MEDMITRA"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=omdongare9422&repo=REPO_MEDMITRA&theme=radical&hide_border=true"/></a>
+<a href="https://github.com/omdongare9422/REPO_VYMS"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=omdongare9422&repo=REPO_VYMS&theme=radical&hide_border=true"/></a>
 
-**📱 Android Task Manager**
-A native system-monitor app built as my final-year project — battery, process, and performance stats via Android system APIs, plus a root-aware pro mode.
-`Kotlin` `Jetpack Compose` `Coroutines/Flow`
+<a href="https://github.com/omdongare9422/REPO_TASKMANAGER"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=omdongare9422&repo=REPO_TASKMANAGER&theme=radical&hide_border=true"/></a>
+<a href="https://github.com/omdongare9422/REPO_GRIDSENSE"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=omdongare9422&repo=REPO_GRIDSENSE&theme=radical&hide_border=true"/></a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/omdongare9422/REPO_SAFESPHERE"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=omdongare9422&repo=REPO_SAFESPHERE&theme=radical&hide_border=true"/></a>
+<a href="https://github.com/omdongare9422/REPO_INTELLISMART"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=omdongare9422&repo=REPO_INTELLISMART&theme=radical&hide_border=true"/></a>
 
-**🆘 SafeSphere**
-Emergency-response and live-location-sharing web app — SOS alerts, SMS-based GPS tracking, and a volunteer rescue dashboard.
-`Django` `Python`
+</div>
 
-</td>
-<td width="50%" valign="top">
-
-**⚡ Adaptive Load Shedding (IIoT)**
-Software/cloud layer on top of an electrical-engineering team's ESP32 hardware prototype — MQTT pipeline, dashboard, and an Android alerting app.
-`MQTT` `Android` `Cloud`
-
-</td>
-</tr>
-</table>
+*Each card shows that repo's live description and star count — keep the description field on GitHub itself up to date and this section updates on its own.*
 
 ---
 
@@ -84,14 +79,18 @@ Software/cloud layer on top of an electrical-engineering team's ESP32 hardware p
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Frameworks & Platforms**
+**Android**
+![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![XML](https://img.shields.io/badge/XML-0060AC?style=flat-square&logo=xml&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+**Backend**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 **Data / ML**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -99,7 +98,14 @@ Software/cloud layer on top of an electrical-engineering team's ESP32 hardware p
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Hardware / IoT**
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**IoT / Hardware**
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 
@@ -117,15 +123,17 @@ Software/cloud layer on top of an electrical-engineering team's ESP32 hardware p
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omdongare9422&theme=redical&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omdongare9422&theme=radical&hide_border=true"/>
 </div>
 
 ---
 
 <div align="center">
 
-💬 **Ask me about:** Java · C/C++ · Django · Android/Kotlin · databases · balancing engineering + skill-building
+💬 **Ask me about:** Java · Android Development · Spring Boot · Django · REST APIs · Databases · IoT Systems
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,100:092E20&height=100&section=footer" width="100%"/>
+*"Building software that people actually use."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,100:092E20&height=90&section=footer" width="100%"/>
 
 </div>
