@@ -1,74 +1,157 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,100:ED8B00&height=200&section=header&text=Om%20Dongare&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20%7C%20Backend%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:092E20,100:ED8B00&text=OM%20DONGARE&fontColor=ffffff&fontSize=52&animation=fadeIn&stroke=ED8B00&strokeWidth=1&desc=JAVA-FIRST%20%E2%80%A2%20ANDROID%20%E2%80%A2%20BACKEND%20%E2%80%A2%20SYSTEMS&descSize=15&descAlignY=68" width="100%" alt="Om Dongare" />
 
-<a href="https://www.linkedin.com/in/om-dongare-110a45297">
-  <img src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:omdongare19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://youtube.com/@musicwithomm">
-  <img src="https://img.shields.io/badge/YouTube-music%20side-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/om-dongare-110a45297"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:omdongare19@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://youtube.com/@musicwithomm"><img src="https://img.shields.io/badge/YouTube-Music_Side-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<img src="https://komarev.com/ghpvc/?username=omdongare9422&style=for-the-badge&color=ED8B00&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=ED8B00&center=true&vCenter=true&width=600&lines=Final-Year+IT+Student+%40+SPPU;Building+Android+apps+with+Kotlin+%2B+Compose;Shipping+Django+%2F+Node.js+backends;Turning+coffee+%2B+chords+into+code+%F0%9F%8E%B9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=850&color=ED8B00&center=true&vCenter=true&width=760&lines=Java+is+my+home+base.;I+build+across+Android+%E2%86%92+APIs+%E2%86%92+Data.;I+care+about+software+that+survives+the+demo.;Same+brain%2C+different+keys+%E2%80%94+code+%2B+music+%F0%9F%8E%B9" alt="Typing intro" />
 
 </div>
 
 ---
 
-### 👋 About me
+# 💻 Developer Workspace
 
-I'm a final-year IT student who likes building things that actually get used — not just graded. Right now that means a native Android system-monitor app, a pharmacy inventory platform with OCR prescription scanning, and the IIoT/cloud layer for a hardware team's adaptive load-shedding prototype.
-
-When I'm not writing code, I'm probably behind a keyboard of a different kind — playing live with my college band, **The Detained Headliners** 🎹. Code and music aren't that different: both are just rhythm, logic, and a little creativity stacked on top of each other.
-
-```txt
-class Om {
-  currentFocus   = ["Android (Kotlin/Compose)", "Django", "Node.js/Express", "System Design"];
-  learning       = ["Advanced DSA", "DB optimization", "IIoT/MQTT pipelines"];
-  lookingFor     = "internships, open-source collabs, and people to argue about architecture with";
-  offTheClock    = "playing keyboard with The Detained Headliners 🎶";
-}
-```
-
----
-
-### 🚀 What I'm building
+<p align="center">
+  <i>Click on the file nodes below to inspect different parts of my developer profile.</i>
+</p>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
-**🩺 Med Mitra**
-Pharmacy inventory management system for small pharmacies that can't afford enterprise tools like MediVision. Tracks expiry, batching, billing — now getting an OCR prescription-scanner add-on.
-`Node.js` `Express` `MongoDB` `EJS`
+### 📁 Project Explorer
+```style
+omdongare9422/
+├── 📄 Om.java (Who I am)
+├── ⚙️ stack.json (My Toolbox)
+├── 📐 architecture.md (How I Think)
+├── 📊 stats.sh (Activity/Pulse)
+└── 🎮 snake.yml (Contribution Game)
+```
 
-</td>
-<td width="50%" valign="top">
+<hr/>
 
-**📱 Android Task Manager**
-A native system-monitor app built as my final-year project — battery, process, and performance stats via Android system APIs, plus a root-aware pro mode.
-`Kotlin` `Jetpack Compose` `Coroutines/Flow`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🆘 SafeSphere**
-Emergency-response and live-location-sharing web app — SOS alerts, SMS-based GPS tracking, and a volunteer rescue dashboard.
-`Django` `Python`
+**System Status**
+- **Java Platform**: Active ☕
+- **Android Studio**: Ready 📱
+- **Music Mode**: Jamming 🎹
+- **Work Status**: Open to collabs
 
 </td>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
-**⚡ Adaptive Load Shedding (IIoT)**
-Software/cloud layer on top of an electrical-engineering team's ESP32 hardware prototype — MQTT pipeline, dashboard, and an Android alerting app.
-`MQTT` `Android` `Cloud`
+<!-- FILE 1: Om.java -->
+<details open>
+<summary><b>☕ src/profile/Om.java (Click to collapse/expand)</b></summary>
+<br/>
+
+```java
+package profile;
+
+public class OmDongare extends Developer implements Musician {
+    private String primaryLanguage = "Java";
+    private String[] domains = {"Android", "Backend APIs", "System Design", "IoT"};
+    private boolean lovesUsefulSoftware = true;
+
+    public void displayProfile() {
+        System.out.println("Signal: Useful software > Impressive demos.");
+        System.out.println("Currently building: Systems where mobile, backend, and data play nice.");
+        System.out.println("Off-duty: Keyboardist / Musician 🎹. Chords + rhythms = logic + code.");
+    }
+}
+```
+
+> "I like working on software where the pieces have to **talk to each other** — mobile clients, APIs, databases, devices, and the messy real-world details in between."
+
+</details>
+
+<!-- FILE 2: stack.json -->
+<details>
+<summary><b>⚙️ config/skills/stack.json (Click to expand)</b></summary>
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,spring,django,nodejs,py,js,c,cpp,mysql,mongodb,git,github,linux,postman&perline=8" alt="Core technology stack" />
+</div>
+
+#### Detailed Technologies
+*   **Mobile & APIs:** Android SDK, XML, REST APIs, Spring Boot, Express, Django
+*   **Data & ML:** Oracle DB, MySQL, MongoDB, TensorFlow, Pandas, NumPy, scikit-learn
+*   **Systems & IoT:** MQTT, ESP32, Raspberry Pi, Arduino
+
+</details>
+
+<!-- FILE 3: architecture.md -->
+<details>
+<summary><b>📐 docs/design/architecture.md (Click to expand)</b></summary>
+<br/>
+
+```mermaid
+flowchart LR
+    A[Android / Java] -->|REST| B[Backend Services]
+    B --> C[(SQL / MongoDB)]
+    B --> D[External APIs]
+    B -->|MQTT / events| E[IoT / Devices]
+    C --> F[Observe • Debug • Optimize]
+    D --> F
+    E --> F
+    F --> A
+```
+
+<p align="center">
+  <sub>I enjoy designing the boundaries between layers as much as the layers themselves.</sub>
+</p>
+
+</details>
+
+<!-- FILE 4: stats.sh -->
+<details>
+<summary><b>📊 scripts/analytics/stats.sh (Click to expand)</b></summary>
+<br/>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=omdongare9422&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ED8B00&icon_color=ED8B00&text_color=C9D1D9&ring_color=ED8B00&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdongare9422&layout=compact&hide_border=true&bg_color=0D1117&title_color=ED8B00&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=omdongare9422&hide_border=true&background=0D1117&ring=ED8B00&fire=ED8B00&currStreakLabel=ED8B00&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omdongare9422&bg_color=0D1117&color=ED8B00&line=ED8B00&point=FFFFFF&area=true&area_color=ED8B00&hide_border=true" width="100%" alt="Contribution activity graph" />
+
+</div>
+
+</details>
+
+<!-- FILE 5: snake.yml -->
+<details>
+<summary><b>🎮 workflows/game/snake.yml (Click to expand)</b></summary>
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omdongare9422/omdongare9422/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omdongare9422/omdongare9422/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/omdongare9422/omdongare9422/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<p align="center">
+  <sub>This contribution animation updates dynamically based on repository activity.</sub>
+</p>
+
+</details>
 
 </td>
 </tr>
@@ -76,56 +159,32 @@ Software/cloud layer on top of an electrical-engineering team's ESP32 hardware p
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Projects & Live Work
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+I intentionally **don’t hard-code static project cards** here because work evolves. Instead, my **pinned repositories directly below this README are my live portfolio**. 
 
-**Frameworks & Platforms**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+This keeps the profile focused on *how I engineer systems* while allowing my featured projects to update dynamically.
 
-**Data / ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Hardware / IoT**
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=omdongare9422&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdongare9422&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omdongare9422&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omdongare9422&theme=redical&hide_border=true"/>
-</div>
+<p align="center"><b>👇 Explore my pinned repositories below to see what I am building right now 👇</b></p>
 
 ---
 
 <div align="center">
 
-💬 **Ask me about:** Java · C/C++ · Django · Android/Kotlin · databases · balancing engineering + skill-building
+### `System.out.println("Build things worth using.");`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,100:092E20&height=100&section=footer" width="100%"/>
+**Java · Android · Spring Boot · Django · APIs · Databases · IoT · System Design**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/om-dongare-110a45297">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="mailto:omdongare19@gmail.com">Email</a>
+&nbsp;•&nbsp;
+<a href="https://youtube.com/@musicwithomm">YouTube</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,100:0D1117&height=95&section=footer" width="100%" alt="footer" />
 
 </div>
