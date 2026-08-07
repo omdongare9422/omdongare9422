@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/om-dongare-110a45297"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:omdongare19@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://youtube.com/@musicwithomm"><img src="https://img.shields.io/badge/YouTube-Music_Side-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.youtube.com/@KeysByOm"><img src="https://img.shields.io/badge/YouTube-Music_Side-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <img src="https://komarev.com/ghpvc/?username=omdongare9422&style=for-the-badge&color=ED8B00&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/><br/>
@@ -37,23 +37,22 @@ public class OmDongare extends Developer implements Musician {
 
 ---
 
-### 📐 `architecture.thinking`
+### 🚀 `system.diagnostics`
 
-```mermaid
-flowchart LR
-    A[Android / Java] -->|REST| B[Backend Services]
-    B --> C[(SQL / MongoDB)]
-    B --> D[External APIs]
-    B -->|MQTT / events| E[IoT / Devices]
-    C --> F[Observe • Debug • Optimize]
-    D --> F
-    E --> F
-    F --> A
+```text
+========================================================================
+[SYSTEM REPORT] - Software & Systems Architecture Specs
+========================================================================
+● Engine Core         : Java 21 / JVM Ecosystem
+● Mobile Subsystem    : Android Native (Kotlin, Jetpack Compose, XML)
+● API Middleware      : Spring Boot, Django, Express, Node.js REST APIs
+● Persistence Layer   : Oracle DB, MySQL, MongoDB
+● Hardware Interfaces : ESP32, Raspberry Pi, Arduino (MQTT Protocol)
+● Integration Flow    : Event-driven pipelines, IIoT telemetry & cloud
+========================================================================
 ```
 
-<p align="center">
-  <sub>I enjoy designing the boundaries between layers as much as the layers themselves.</sub>
-</p>
+> I enjoy designing clean boundaries between mobile frontends, backend business logic, and databases.
 
 ---
 
@@ -77,16 +76,16 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=omdongare9422&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ED8B00&icon_color=ED8B00&text_color=C9D1D9&ring_color=ED8B00&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=omdongare9422&layout=compact&hide_border=true&bg_color=0D1117&title_color=ED8B00&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=omdongare9422&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ED8B00&icon_color=ED8B00&text_color=C9D1D9&ring_color=ED8B00&include_all_commits=true&v=1.0.3" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=omdongare9422&layout=compact&hide_border=true&bg_color=0D1117&title_color=ED8B00&text_color=C9D1D9&langs_count=8&v=1.0.3" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=omdongare9422&hide_border=true&background=0D1117&ring=ED8B00&fire=ED8B00&currStreakLabel=ED8B00&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=omdongare9422&hide_border=true&background=0D1117&ring=ED8B00&fire=ED8B00&currStreakLabel=ED8B00&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&v=1.0.3" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omdongare9422&bg_color=0D1117&color=ED8B00&line=ED8B00&point=FFFFFF&area=true&area_color=ED8B00&hide_border=true" width="100%" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omdongare9422&bg_color=0D1117&color=ED8B00&line=ED8B00&point=FFFFFF&area=true&area_color=ED8B00&hide_border=true&v=1.0.3" width="100%" alt="Contribution activity graph" />
 
 </div>
 
@@ -121,7 +120,7 @@ I play music because it scratches the same itch as programming: **timing, struct
 &nbsp;•&nbsp;
 <a href="mailto:omdongare19@gmail.com">Email</a>
 &nbsp;•&nbsp;
-<a href="https://youtube.com/@musicwithomm">YouTube</a>
+<a href="https://www.youtube.com/@KeysByOm">YouTube</a>
 
 <br/><br/>
 
